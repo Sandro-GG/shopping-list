@@ -1,1 +1,1 @@
-# shopping-list
+# Generic shopping list for an exercise
